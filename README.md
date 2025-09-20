@@ -7,7 +7,7 @@ Analyses des Taxes Douanieres Internationales ( Etats Unis ) de 2002 a 2025 .
 
 # RUN PROGRAM 
 
-    cmod +x Eunis.py
+    chmod +x Eunis.py
     python3 Eunis.py
 
 # EAMPLE
